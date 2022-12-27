@@ -1,0 +1,12 @@
+tptAccessModuleName = 'libkafkaaxsmod.so',
+tptKafkaMsgLmt = '4800',
+tptKafkaOffsetDirectory = '/tmp',
+kafkaServers = '<kafka-server>:<port>',
+kafkaTopic = '<kafka-topic-name>',
+
+tdDbUrl = '<target-Vantage-system-url>',
+tdLogonMech = '<target-Vantage-system-logon-machanism>',
+tdUName = '<your-db-user-name>>',
+tdPass = '<your-db-user-password>'
+tdTargetDB='<database-name>',
+tdTargetTable='<target-table-name>'
